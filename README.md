@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 # langchain-and-vector-databases
+>>>>>>> bdff02cf2ed6baebd4fddd96e502421b73277aea
 LangChain Projects Collection
 Welcome to the LangChain Projects Collection! This repository houses the hands-on projects I created during my journey through the LangChain and Deep Lake course. These projects demonstrate various applications of Large Language Models (LLMs) and the LangChain framework, designed to solve real-world problems using cutting-edge AI techniques.
 
@@ -109,4 +112,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Conclusion
+<<<<<<< HEAD
 This repository serves as a collection of hands-on LangChain projects I created as part of my learning process. Each project demonstrates practical applications of Large Language Models and LangChain, from building chatbots to creating autonomous agents. Feel free to explore and use these projects as a base for your own AI applications!
+=======
+This repository serves as a collection of hands-on LangChain projects I created as part of my learning process. Each project demonstrates practical applications of Large Language Models and LangChain, from building chatbots to creating autonomous agents. Feel free to explore and use these projects as a base for your own AI applications!
+>>>>>>> bdff02cf2ed6baebd4fddd96e502421b73277aea
