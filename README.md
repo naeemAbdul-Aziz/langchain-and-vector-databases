@@ -11,7 +11,7 @@ This project uses LangChain and an LLM to automatically summarize news articles.
 
 Key Concepts:
 
-LangChain LLM integration
+1.LangChain LLM integration
 Prompt engineering (summarization)
 Data ingestion from news sources
 2. Customer Support Chatbot
