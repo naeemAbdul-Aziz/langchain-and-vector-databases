@@ -10,66 +10,61 @@ Here’s a quick overview of the projects you’ll find in this repository:
 This project uses LangChain and an LLM to automatically summarize news articles. It demonstrates the use of prompt engineering and text processing to extract key information.
 
 Key Concepts:
-
 1.LangChain LLM integration
 Prompt engineering (summarization)
 Data ingestion from news sources
+
+
 2. Customer Support Chatbot
 A fully functional chatbot that uses LangChain and Deep Lake for retrieving relevant responses from a database of customer support documents. This project demonstrates how to integrate external datasets with LLMs for enhanced interaction.
-
-Key Concepts:
-
 Using Deep Lake as a vector store
 Data ingestion and document retrieval
 Building a chatbot using LangChain
+
+
 3. News Knowledge Graph Extractor
 A project where an LLM is used to extract and organize key information from news articles into a knowledge graph. This highlights LangChain’s capability to interact with structured data.
-
-Key Concepts:
-
 Knowledge graph extraction
 Structuring unstructured data from articles
 Prompt engineering for data extraction
-4. YouTube Video Summarizer
+
+
+5. YouTube Video Summarizer
 This project uses LangChain to summarize YouTube videos by pulling video metadata and content and then summarizing it. It demonstrates the combination of LangChain and external tools to fetch video data.
-
-Key Concepts:
-
 YouTube API integration
 Summarizing long-form content with LangChain
 Using external data sources within LangChain
+
+
 5. Jarvis Knowledge Base
 An AI assistant that can browse a knowledge base and provide responses based on stored information. This project showcases LangChain’s ability to combine multiple tools for a powerful assistant.
-
-Key Concepts:
-
 LangChain chain creation
 Knowledge base interaction
 Building an intelligent assistant
+
+
+
 6. GitHub Repo Chatbot
 This chatbot is designed to interact with a GitHub repository, providing insights and answering questions based on the repo’s content. It’s an example of how LangChain can interface with code repositories for real-time querying.
-
-Key Concepts:
-
 Interacting with GitHub’s API
 Knowledge extraction from codebases
 Using LangChain for context-based querying
+
+
 7. Financial Question-Answering Chatbot
 A specialized chatbot built to answer financial questions by retrieving relevant data from a dataset. This project uses LangChain to answer queries about financial statements and reports.
-
-Key Concepts:
-
 Integrating financial data
 Answering domain-specific questions
 Using LangChain’s memory and tools
+
+
 8. Autonomous Agent for Report Creation
 An autonomous agent that generates comprehensive analysis reports using LangChain’s agent framework. This project demonstrates how LLMs can be used as reasoning engines to perform complex tasks.
-
-Key Concepts:
-
 LangChain agents
 Autonomous reasoning with LLMs
 Building automated workflows
+
+
 How to Use
 To run any of these projects locally, follow these steps:
 
